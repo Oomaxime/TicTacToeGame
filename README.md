@@ -1,4 +1,4 @@
-        # <p align="center">TicTacToe</p>
+ # <p align="center">TicTacToe</p>
 
 ## Objectif
 Concevoir une application Express, et React.js avec Vite.Js.
